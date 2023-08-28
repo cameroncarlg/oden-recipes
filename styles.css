@@ -1,0 +1,16 @@
+.recipes-list {
+  font-size: 32px;
+  font-weight: 700;
+}
+
+.title {
+  text-align: center;
+  font-size: 48px;
+  font-weight: 700;
+}
+
+.desc {
+  text-align: center;
+  font-size: 32px;
+  font-weight: 600;
+}
